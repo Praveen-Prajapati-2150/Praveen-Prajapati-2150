@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/praveenprajapati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="praveenprajapati" height="30" width="40" /></a>
-<a href="https://twitter.com/praveen61845603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="praveen61845603" height="30" width="40" /></a>
+<a href="https://twitter.com/praveen61845603" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-0902F48837-seeklogo.com.png" alt="praveen61845603" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/praveen-prajapati-5695b71a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveen-prajapati-5695b71a3/" height="30" width="40" /></a>
 <a href="https://medium.com/@praveen_blogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@praveen_blogs" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/praveenranoliya5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/praveenranoliya5/" height="30" width="40" /></a>
