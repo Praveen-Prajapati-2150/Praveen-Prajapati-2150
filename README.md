@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen-prajapati-2150" alt="praveen-prajapati-2150" /></a> </p>
 
-- 📫 How to reach me **prsmart2150@gmail.com**
+- 📫 How to reach me **praveenprajapati0810@gmail.com**
 
 - ⚡ Fun fact **I can talk with anyone**
 
